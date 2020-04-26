@@ -1,0 +1,39 @@
+(QUESTIONS 1) Based on the videos and the reading material, how would you define a data scientist and data science? (3 marks)
+
+ANSWER
+
+Data Science is an inter-disciplinary field that uses scientific methods, process, algorithms and systems to extract knowledge and insights from many structural and unstructured data. 
+Data Science is a "concept to unify statistics, data analysis, machine learning and their related methods" in order to "understand and analyze actual phenomena" with data. It employs techniques and theories and drawn from many fields within the context of mathematics, statistics, computer science, and information science.
+Data Scientist are those who are able to solve the puzzle of collection of data which is really large or may be very large. But they are really a man who is able to read all the puzzles whether they are old or new. And they are having a best convenience power to understood the normal people by telling a Story.
+
+
+(QUESTIONS 2)  As discussed in the videos and the reading material, data science can be applied to problems across different industries. What industry are you passionate about and would like to pursue a data science career in? (1 mark)
+ANSWER
+I am really passionate about the growing trading market in this global. I would like to work in the market where and how people are buying anything in this whole market either the things are shares of trading market or the underwear from the retail online or offline with data. I want to observe a pattern in their buying capacity and their income either it will be monthly income or income from rents.
+
+
+(QUESTIONS 3) Based on the videos and the reading material, what are the ten main components of a report that would be delivered at the end of a data science project? (5 marks)
+
+ANSWER
+
+The ten main components of report that would be delivered at the end of a data science project are as follows:-
+1.over Page -This is main focused by the author which is important to get a glance of content inside it within it's title and information about the writer of the report.
+
+2.Table of Content - It is provided by the writer of project report which providing the map of the content like we go on any trip we need a land mark to visit.
+
+3.Introductory - This is the introduction of the technology and thing used in the content which build the mind of reader who are not having any knowledge about the content used in it.
+
+4.Abstract - This is the summary of whole report where we give the motive of the the project done.
+
+5.Methodology - Here we introduce the research methods and data sources we used for analysis. 
+
+6.Discussion - The power of narrative to enable numbers to communicate your thesis to your  readers.
+
+7.Results - Here the writer and the project head gives the final results in the form of GRAPHS, CURVE and FIGURE.
+
+8.Conclusion- In this section we come with summary of the results which may also predict the future of particular product or company.
+
+9.References- It is like a housekeeping. Here we need to give the reference for the particular information.
+
+10.Appendices - It is also provided by the report writer to give hints about any terms used in the projects.
+
